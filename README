@@ -1,0 +1,5 @@
+Anthony Wlodarski, oneofthosed3afmutes@yahoo.com.
+
+This demo illustrates dealing with orthogonal matrices (fancy term for setting clipping planes).  It also illustrates the use of glutKeyboardFunc() and rotating a polygon in space.
+
+Enjoy!
